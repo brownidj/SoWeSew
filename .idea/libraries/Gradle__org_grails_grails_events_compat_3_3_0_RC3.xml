@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-events-compat:3.3.0.RC3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-events-compat/3.3.0.RC3/173eeb27be6ef41d9ebbd4380166d7d4fff9e6d6/grails-events-compat-3.3.0.RC3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-events-compat/3.3.0.RC3/ba878bd8abc5c5cafdb0f19dd83f70344e758a55/grails-events-compat-3.3.0.RC3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
